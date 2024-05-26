@@ -1,4 +1,4 @@
-# python-examples
-In this repository, you cand fin the code examples.
-Topics
-Your First "Hello, World" Program
+# Python-examples
+In this repository, you cand find the examples about Python.
+##Topics
+- Your First "Hello, World" Program
